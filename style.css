@@ -1,0 +1,17 @@
+body{
+    margin: 0; 
+    background: #fff; 
+    width: 100%; 
+    height: 100vh; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center
+}
+        
+h1{
+    color: #FF0000; 
+    margin-bottom: 80px; 
+    font-family: Lacquer, sans-serif; 
+    text-transform: uppercase; 
+    font-size: 80px
+}
